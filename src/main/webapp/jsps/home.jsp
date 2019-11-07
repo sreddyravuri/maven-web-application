@@ -9,28 +9,34 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions.</h1>
-<h1 align="center"> Nov 3rd 7 PM IST we have online class demo .. Plz share with your friends...Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to DXC technologies.</h1>
+<h1 align="center">DXC Technology is a global IT services company that was formed on April 1, 2017, by the merger of CSC and the Enterprise Services business of Hewlett Packard Enterprise. DXC Technology has successfully guided the world’s largest enterprises and government agencies through successful change cycles. With ~138,000 employees worldwide, the company’s deep experience gives it a clear and confident vision to help clients navigate the future.  </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore.
-		+91-9980923226,
+		Mailing Address
+                1000 Maine Avenue, SW
+                Suite 500
+                Washington D.C. 20024
+
+   
+               Media Inquiries
+               Rayna V. Farrell
+               Senior Director, Communications
+               rfarrell@brt.org
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:info@dxc.com">Mail to DXC Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>DXCTechnologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://Dxctechnologies.com/">DXCTechnologies</a> </small></p>
 
 </body>
 </html>
