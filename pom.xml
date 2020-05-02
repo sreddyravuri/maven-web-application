@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.206.170.38:8081/repository/Release/</url>
+	      <name>DXC Technologies Releases Nexus Repository</name>
+	      <url>http://15.206.170.38:8081/repository/vasu-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.206.170.38:8081/repository/Snap_Repo/</url>
+	      <name>DXC Snapshot Nexus Repository </name>
+	      <url>http://15.206.170.38:8081/repository/vasu-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
